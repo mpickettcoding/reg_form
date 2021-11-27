@@ -1,14 +1,11 @@
-body {
-    background-color: #5CDB95;
-    color: #EDF5E1;
-}
-
-.form {
+form {
     border: 5px solid #05386B;
 	border-radius: 10px;
     width:400px;
     padding-bottom: 3em;
     margin:auto;
+    background-color: #5CDB95;
+    color: #EDF5E1;
 }
 
 .reg-form { 
